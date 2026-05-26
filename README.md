@@ -1,4 +1,4 @@
-# 📅 Cal.com Inspired Scheduling UI
+# 📅 Cal.com 
 
 A modern and responsive **Scheduling App UI Clone** built using **HTML & CSS**.  
 This project is inspired by the clean and minimal design of **Cal.com** and includes multiple responsive sections like app integrations, scheduling cards, testimonials, booking CTA, and footer.

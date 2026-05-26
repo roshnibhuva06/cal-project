@@ -39,9 +39,6 @@ This project is inspired by the clean and minimal design of **Cal.com** and incl
 - Profile cards
 - Testimonial section
 
-## 💬 Social Proof Section
-- Tweet/Testimonial cards
-- Username claim CTA
 
 ## ⚫ Footer
 - Multi-column footer
@@ -66,8 +63,6 @@ This project is inspired by the clean and minimal design of **Cal.com** and incl
 ```bash
 📦 scheduling-ui/
  ┣ 📂 img/
- ┃ ┣ 📄 user1.png
- ┃ ┣ 📄 user2.png
  ┃ ┣ 📄 p1.png
  ┃ ┗ 📄 p2.png
  ┣ 📄 index.html
@@ -131,7 +126,7 @@ This project helps practice:
 # 📸 Preview
 
 ```md
-![Preview](preview.png)
+video: https://drive.google.com/file/d/1IDKIRoVYwo_RCIGfFxEJpdwAy4vEHLbD/view?usp=sharing
 ```
 
 ---
@@ -140,21 +135,5 @@ This project helps practice:
 
 Inspired by the clean UI/UX design of **Cal.com**
 
----
 
-# 👨‍💻 Author
 
-**Nikunj Rana**
-
-- GitHub: @nikunj1112
-- Portfolio: https://nikunj-rana.vercel.app/
-
----
-
-# ⭐ Support
-
-If you like this project:
-
-⭐ Star the repository  
-🍴 Fork the project  
-💻 Practice and improve UI skills
